@@ -10,3 +10,7 @@
 ## Documentation
 - Ajout des commentaires dans le code
 - Mise à jour du README
+
+## Tests
+- Ajout des tests unitaires
+- Validation des formulaires
