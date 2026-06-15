@@ -14,3 +14,4 @@
 ## Tests
 - Ajout des tests unitaires
 - Validation des formulaires
+- Fix login bug and update database schema
